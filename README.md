@@ -46,6 +46,8 @@ O processo foi dividido em duas fases:
 * **Vídeo de ensino:** Um personagem explicando a diferença entre os serviços da aws de ia generativa. 
 * **Pdf de estudo** Pdf para estudo sobre as IAs generativas da AWS.
 
+* **Link do vídeo** [https://youtube.com/shorts/OgIbECrHvVw?feature=share](https://youtube.com/shorts/OgIbECrHvVw)
+
 <img width="308" height="856" alt="Capturar" src="https://github.com/user-attachments/assets/ad81d2ed-5cad-4fdb-8f49-acbf33e0ea64" />
 
 <img width="498" height="892" alt="Capturar01" src="https://github.com/user-attachments/assets/6053af56-86d9-44a8-90b5-7d5ed80b853d" />
