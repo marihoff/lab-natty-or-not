@@ -48,4 +48,13 @@ O processo foi dividido em duas fases:
 
 <img width="308" height="856" alt="Capturar" src="https://github.com/user-attachments/assets/ad81d2ed-5cad-4fdb-8f49-acbf33e0ea64" />
 
+<img width="498" height="892" alt="Capturar01" src="https://github.com/user-attachments/assets/6053af56-86d9-44a8-90b5-7d5ed80b853d" />
+
+<img width="501" height="893" alt="Capturar03" src="https://github.com/user-attachments/assets/6d87d0b7-4c04-47db-9e05-48d4b6f00a5e" />
+<img width="495" height="884" alt="Capturar02" src="https://github.com/user-attachments/assets/a1a52748-0e13-4cf3-9e10-7417e3e4b2d0" />
+
+
+
+
+
 
